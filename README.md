@@ -1,7 +1,1 @@
-### Jalal Azimi———@jalalazimi
-
-<p>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
-</p>
-
-Hello! I'm a Software engineer. Currently I live in Dublin, Ireland.
+![](https://github-readme-stats.vercel.app/api?username=jalalazimi&show_icons=true&count_private=true)
